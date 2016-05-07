@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'si';
-    src: url('/socicon/socicon.eot');
-    src: url('/socicon/socicon.eot?#iefix') format('embedded-opentype'),
-         url('/socicon/socicon.woff') format('woff'),
-         url('/socicon/socicon.ttf') format('truetype'),
-         url('/socicon/socicon.svg#icomoonregular') format('svg');
+    src: url('https://cdn.rawgit.com/dschn/ohho-website/master/socicon/socicon.eot');
+    src: url('https://cdn.rawgit.com/dschn/ohho-website/master/socicon/socicon.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.rawgit.com/dschn/ohho-website/master/socicon/socicon.woff') format('woff'),
+         url('https://cdn.rawgit.com/dschn/ohho-website/master/socicon/socicon.ttf') format('truetype'),
+         url('https://cdn.rawgit.com/dschn/ohho-website/master/socicon/socicon.svg#icomoonregular') format('svg');
     font-weight: normal;
     font-style: normal;
 
